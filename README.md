@@ -1,4 +1,6 @@
 # Exp-04-Spring-Boot-with-REST-API-and-Hibernate-Integration
+## NAME : MOULISHWAR G
+## REGISTER NO : 2305001020
 
 ## AIM:
 To develop a Spring Boot application to store and retrieve data from a Movies database using Object Relational Mapping (ORM) with Hibernate and expose it via REST APIs.
@@ -99,3 +101,19 @@ public class MovieController {
         }).orElse(ResponseEntity.notFound().build());
     }
 }
+
+
+## OUTPUT:
+
+<img width="786" height="505" alt="image" src="https://github.com/user-attachments/assets/100a46e8-90ce-4bd7-9ed5-21a055aba7c8" />
+
+<img width="785" height="512" alt="image" src="https://github.com/user-attachments/assets/7cd5ea86-eff8-429b-ba85-940f54636056" />
+
+<img width="783" height="510" alt="image" src="https://github.com/user-attachments/assets/12274bdf-0048-4ca0-93df-b3941f94cf96" />
+
+<img width="780" height="510" alt="image" src="https://github.com/user-attachments/assets/0dba04b4-53c5-49da-86fa-1d09a3a19cb0" />
+
+## RESULT :
+
+Thus the development of a Spring Boot application to store and retrieve data from a Movies database is completed successfully
+
